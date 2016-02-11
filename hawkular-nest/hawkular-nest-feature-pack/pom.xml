@@ -83,12 +83,6 @@
       <artifactId>wildfly-feature-pack</artifactId>
       <version>${version.org.wildfly}</version>
       <type>zip</type>
-      <exclusions>
-        <exclusion>
-          <groupId>*</groupId>
-          <artifactId>*</artifactId>
-        </exclusion>
-      </exclusions>
     </dependency>
 
   </dependencies>
